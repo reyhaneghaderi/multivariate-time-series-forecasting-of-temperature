@@ -188,7 +188,7 @@ multivariate-time-series-forecasting-of-temperature/
 ├── requirements.txt
 ├── data/
 │   └── raw/
-│       ├── README.md
+│       
 │       └── jena_climate_2009_2016.csv
 │
 ├── notebooks/
