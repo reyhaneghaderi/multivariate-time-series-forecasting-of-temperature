@@ -1,7 +1,7 @@
-# Climate Forecasting with VAR & GRU
+## Climate Forecasting with VAR & GRU
 Short-term temperature forecasting (24-hour horizon) using classical statistical modeling (Vector Autoregression) versus deep learning (Gated Recurrent Unit) on the Jena Climate Dataset (2009–2016).
 
- - Project Overview
+ ## Project Overview
    Predicting weather is a classic time-series challenge. This project checks if a deep learning model (GRU) can beat a simple math model (VAR) at predicting air temperature 24 hours in advance using past weather data.
 
 ## Objectives
