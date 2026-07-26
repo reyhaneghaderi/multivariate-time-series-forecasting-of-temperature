@@ -161,23 +161,23 @@ The final GRU result demonstrates the importance of:
 
 ### Meteorological variables over time
 
-![Meteorological variables](results/figures/meteorological_variables_time_series.png)
+![Meteorological variables over time](./results/figures/meteorological_variables_time_series.png)
 
 ### Correlation matrix
 
-![Correlation matrix](results/figures/correlation_matrix.png)
+![Correlation matrix](./results/figures/correlation_matrix.png)
 
 ### GRU prediction versus actual temperature
 
-![GRU prediction versus actual](results/figures/gru_prediction_vs_actual.png)
+![GRU prediction versus actual temperature](./results/figures/gru_prediction_vs_actual.png)
 
 ### VAR 24-hour prediction versus actual temperature
 
-![VAR prediction versus actual](results/figures/var_24h_prediction_vs_actual.png)
+![VAR prediction versus actual temperature](./results/figures/var_24h_prediction_vs_actual.png)
 
 ### GRU and VAR comparison
 
-![GRU and VAR comparison](results/figures/gru_var_vs_actual_24h_forecast.png)
+![GRU and VAR comparison](./results/figures/gru_var_vs_actual_24h_forecast.png)
 
 ## Repository Structure
 
