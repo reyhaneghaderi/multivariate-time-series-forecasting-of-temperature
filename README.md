@@ -14,14 +14,14 @@ Short-term temperature forecasting (24-hour horizon) using classical statistical
 
 ## Dataset & Features
    # Target Variable: 
-       Air Temperature (T (degC))
+    - Air Temperature (T (degC))
        
    # Predictor Variables:   
     - Atmospheric pressure
     - Relative humidity
-    -Wind speed
-   - Historical temperature values
-   -Two approaches were compared:
+    - Wind speed
+     - Historical temperature values
+  
 
    # Sampling: 
     - Downsampled to 3-hour intervals to reduce high-frequency noise and computational overhead.
