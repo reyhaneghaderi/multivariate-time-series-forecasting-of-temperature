@@ -28,11 +28,22 @@ This project uses the **Jena Climate Dataset**, recorded by the Max Planck Insti
 - **Forecast horizon:** 24 hours
 - **Working frequency:** Every 3 hours
 
-### Download
+## Dataset Download
 
-Download the dataset from:
+This project uses the Jena Climate Dataset (2009–2016).
 
-https://storage.googleapis.com/tensorflow/tf-keras-datasets/jena_climate_2009_2016.csv.zip
+### Original source
+
+[Download the dataset from TensorFlow](https://storage.googleapis.com/tensorflow/tf-keras-datasets/jena_climate_2009_2016.csv.zip)
+
+### Repository copy
+
+[Download the ZIP file from this repository](https://raw.githubusercontent.com/reyhaneghaderi/multivariate-time-series-forecasting-of-temperature/main/data/raw/jena_climate_2009_2016.zip)
+
+After downloading, extract the archive and place the CSV file at:
+
+```text
+data/raw/jena_climate_2009_2016.csv
 
 After extracting the archive, place the CSV file at:
 
