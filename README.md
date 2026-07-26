@@ -40,19 +40,6 @@ This project uses the Jena Climate Dataset (2009–2016).
 
 [Download the ZIP file from this repository](https://raw.githubusercontent.com/reyhaneghaderi/multivariate-time-series-forecasting-of-temperature/main/data/raw/jena_climate_2009_2016.zip)
 
-After downloading, extract the archive and place the CSV file at:
-
-```text
-data/raw/jena_climate_2009_2016.csv
-
-After extracting the archive, place the CSV file at:
-
-```text
-data/raw/jena_climate_2009_2016.csv
-```
-
-The full dataset is not stored in this repository because of its file size.
-
 ## Selected Features
 
 The models use the following meteorological variables:
